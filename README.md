@@ -18,7 +18,7 @@ HydroRack Acoustic Sensor is designed to provide an inexpensive, portable audio 
 
 The current implementation focuses on establishing a reliable real-time audio streaming and visualization pipeline.
 
-                  📱 Smartphone
+                  Smartphone
               ┌──────────────────┐
               │ Built-in          │
               │ Microphone        │
